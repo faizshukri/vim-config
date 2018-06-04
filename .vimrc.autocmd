@@ -1,0 +1,2 @@
+autocmd OptionSet guicursor noautocmd set guicursor=
+
