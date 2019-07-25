@@ -13,6 +13,8 @@ Plug 'tpope/vim-surround'
 Plug 'flazz/vim-colorschemes'
 Plug 'prettier/vim-prettier', { 'do': 'npm install' }
 Plug 'ctrlpvim/ctrlp.vim'
+Plug 'godlygeek/tabular'
+Plug 'morhetz/gruvbox'
 
 " Initialize plugin system
 call plug#end()
